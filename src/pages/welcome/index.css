@@ -1,0 +1,31 @@
+body {
+    margin: 0px;
+}
+
+.content {
+    padding: 30px;
+}
+
+.titulo {
+    margin-top: 40px;
+}
+
+.parrafo {
+    margin-top: 21px;
+}
+
+.subtitulo {
+    margin-top: 73px;
+}
+
+.field {
+    margin-top: 29px;
+}
+
+.buttom {
+    margin-top: 16px;
+}
+
+.footer {
+    margin-top: 113px;
+}

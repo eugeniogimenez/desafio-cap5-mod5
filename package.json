@@ -1,0 +1,11 @@
+{
+  "name": "5-pages-and-components-desafio-2",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.4.0"
+  }
+}
